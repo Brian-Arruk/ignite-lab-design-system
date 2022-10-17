@@ -7,7 +7,7 @@
 # Components
 
  - Button <img src="https://user-images.githubusercontent.com/75866996/196046021-d01b4da2-b980-4e75-9973-6ed375b05a75.png"> 
- - Checkbox <img src="https://user-images.githubusercontent.com/75866996/196046021-d01b4da2-b980-4e75-9973-6ed375b05a75.png"> 
+ - Checkbox <img src="https://user-images.githubusercontent.com/75866996/196046130-1941276e-79ed-4d75-853e-cf0d168ce695.png"> 
  - Text Input <img src="https://user-images.githubusercontent.com/75866996/196046184-d73ac5c5-f581-4e1d-b1e0-ebe31fd0a62a.png">
 
 
